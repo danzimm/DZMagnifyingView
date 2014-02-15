@@ -6,15 +6,18 @@
 //  Copyright (c) 2014 Dan Zimmerman. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
 /*
- * @description A UIView subclass that acts like a magnifying glass.
+ * @zdocs filedescription
  *
- * @discussion You can initialize this class like an ordinary view with one caveat: the width and height should be the same, the behavior is unknown otherwise.
+ * @title DZMagnifyingView Class Reference
  *
- * @availabilty This is the one and only class here so it should always be available.
+ * @@ This is a UIView subclass that acts like a magnifying glass.
  *
+ * @Discussion You can initialize this class like an ordinary view with one caveat: the width and height should be the same, the behavior is unknown otherwise.
  */
+
+#import <UIKit/UIKit.h>
+
 @interface DZMagnifyingView : UIView {
     UIImage *fullImage;
     CGAffineTransform rotationTransform;
