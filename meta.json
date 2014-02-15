@@ -1,0 +1,22 @@
+{
+    "title" : "DanZimm's Objective-C Documentation Center",
+    "description" : "README.md",
+    "specialData" : [
+        {
+            "key" : "Framework",
+            "link" : "https://github.com/danzimm/"
+        },
+        {
+            "key" : "Documentation",
+            "link" : "http://documentation.danz.im/objc"
+        }
+    ],
+    "columns" : [
+        {
+            "title" : "iOS",
+            "items" : [
+                "DZMagnifyingView.h"
+            ]
+        }
+    ]
+}
