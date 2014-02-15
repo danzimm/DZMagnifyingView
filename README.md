@@ -22,8 +22,4 @@ The API is designed so that you can place the magnifying glass wherever you want
 
 Pull requests are welcome, hopefully people enjoy!
 
-##Example
-
-[Video](http://danzimm.com/colorwheel.mov)
-
 ###License: MIT
