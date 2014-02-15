@@ -21,3 +21,5 @@ Finally you specify the origin, or center of the magnifier view in the coordinat
 The API is designed so that you can place the magnifying glass wherever you want on screen and magnify a totally different part of the screen. Why you ask is this? Flexibility is always nice; also, let's say you were going to use this magnifying glass when someone touches a view, then you wouldn't want the magnifying glass center to line up with the touch itself, you would want the magnifying glass to float above the touch (similar to the example above) so that you can see what you're touching (note here that it is assumed you are trying to magnify what you are touching).
 
 Pull requests are welcome, hopefully people enjoy!
+
+###License: MIT
